@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/about/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/achievements/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/projects/cryptocurrencies/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/projects/quiz/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/projects/robot-controller/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/projects/the-traffic-light-controller/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/projects/tic-tac-toe/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/contact/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.iqrabakhtiyaar.com/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iqrabakhtiyaar.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.iqrabakhtiyaar.com/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iqrabakhtiyaar.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/projects/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.iqrabakhtiyaar.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.iqrabakhtiyaar.com/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iqrabakhtiyaar.com/tags/"
+                />
+  </url>
+  
+</urlset>
